@@ -2,7 +2,7 @@
 Searches for potentially vulnerable websites to local file inclusion, throughout the web and then exploits them for LFI
 A script written in python which gathers websites potentially vulnerable to local file inclusion & makes a file named as targets.txt  for future reference or manual exploitation. This script later uses the targets.txt file & start fuzzing the endpoint to check whether the website is actually vulnerable or not.
 
-Long story short : Run this script to get a list of websites along with the vulnerable endpoints.
+``Long story short`` : Run this script to get a list of websites along with the vulnerable endpoints.
 
 ## Features
 
@@ -14,11 +14,11 @@ Long story short : Run this script to get a list of websites along with the vuln
   
 ## Screenshots
 
-Loading Screen Banner
-![App Screenshot]('loading.jpeg')
+Loading Screen Banner:
+![App Screenshot](loading.jpeg)
 
-Script while it is running...
-![App Screenshot]('run.jpeg')
+Script while it is running:
+![App Screenshot](run.jpeg)
 ## Pre Requisites
 
 Python Installed
