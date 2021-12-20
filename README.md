@@ -15,10 +15,10 @@ A script written in python which gathers websites potentially vulnerable to loca
 ## Screenshots
 
 Loading Screen Banner:
-![App Screenshot](loading.jpeg)
+![App Screenshot](loading.png)
 
 Script while it is running:
-![App Screenshot](run.jpeg)
+![App Screenshot](run.png)
 ## Pre Requisites
 
 Python Installed
